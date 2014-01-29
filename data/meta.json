@@ -1,0 +1,1545 @@
+
+{
+  "name" : "NSObject",
+  "children" : [
+    {
+      "name" : "MIDINetworkSession"
+    },
+    {
+      "name" : "MIDINetworkConnection"
+    },
+    {
+      "name" : "MIDINetworkHost"
+    },
+    {
+      "name" : "CIContext"
+    },
+    {
+      "name" : "CIColor"
+    },
+    {
+      "name" : "CIFilter"
+    },
+    {
+      "name" : "CIImage"
+    },
+    {
+      "name" : "CIVector"
+    },
+    {
+      "name" : "MKDirectionsRequest"
+    },
+    {
+      "name" : "MKReverseGeocoder"
+    },
+    {
+      "name" : "MKLocalSearchRequest"
+    },
+    {
+      "name" : "MKLocalSearch"
+    },
+    {
+      "name" : "MKLocalSearchResponse"
+    },
+    {
+      "name" : "MKShape",
+      "children" : [
+        {
+          "name" : "MKPointAnnotation"
+        },
+        {
+          "name" : "MKCircle"
+        },
+        {
+          "name" : "MKMultiPoint",
+          "children" : [
+            {
+              "name" : "MKPolyline"
+            },
+            {
+              "name" : "MKPolygon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "MKUserLocation"
+    },
+    {
+      "name" : "MKMapItem"
+    },
+    {
+      "name" : "MPTimedMetadata"
+    },
+    {
+      "name" : "MPMovieAccessLog"
+    },
+    {
+      "name" : "MPMediaEntity",
+      "children" : [
+        {
+          "name" : "MPMediaItem"
+        },
+        {
+          "name" : "MPMediaItemCollection"
+        }
+      ]
+    },
+    {
+      "name" : "MPMovieErrorLogEvent"
+    },
+    {
+      "name" : "MPMediaPredicate"
+    },
+    {
+      "name" : "MPMediaQuerySection"
+    },
+    {
+      "name" : "MPMovieErrorLog"
+    },
+    {
+      "name" : "MPMediaLibrary"
+    },
+    {
+      "name" : "MPMoviePlayerController"
+    },
+    {
+      "name" : "MPMediaQuery"
+    },
+    {
+      "name" : "MPNowPlayingInfoCenter"
+    },
+    {
+      "name" : "MPMediaItemArtwork"
+    },
+    {
+      "name" : "MPMusicPlayerController"
+    },
+    {
+      "name" : "MPMovieAccessLogEvent"
+    },
+    {
+      "name" : "CAAnimation",
+      "children" : [
+        {
+          "name" : "CATransition"
+        },
+        {
+          "name" : "CAAnimationGroup"
+        },
+        {
+          "name" : "CAPropertyAnimation",
+          "children" : [
+            {
+              "name" : "CABasicAnimation"
+            },
+            {
+              "name" : "CAKeyframeAnimation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "CAValueFunction"
+    },
+    {
+      "name" : "CADisplayLink"
+    },
+    {
+      "name" : "CAMediaTimingFunction"
+    },
+    {
+      "name" : "CAEmitterCell"
+    },
+    {
+      "name" : "CALayer",
+      "children" : [
+        {
+          "name" : "CAEAGLLayer"
+        },
+        {
+          "name" : "CAReplicatorLayer"
+        },
+        {
+          "name" : "CATransformLayer"
+        },
+        {
+          "name" : "CAScrollLayer"
+        },
+        {
+          "name" : "CAEmitterLayer"
+        },
+        {
+          "name" : "CAGradientLayer"
+        },
+        {
+          "name" : "CATiledLayer"
+        },
+        {
+          "name" : "CAShapeLayer"
+        },
+        {
+          "name" : "CATextLayer"
+        },
+        {
+          "name" : "AVPlayerLayer"
+        },
+        {
+          "name" : "AVSynchronizedLayer"
+        },
+        {
+          "name" : "AVCaptureVideoPreviewLayer"
+        }
+      ]
+    },
+    {
+      "name" : "CATransaction"
+    },
+    {
+      "name" : "CLRegion"
+    },
+    {
+      "name" : "CLLocationManager"
+    },
+    {
+      "name" : "CLPlacemark"
+    },
+    {
+      "name" : "CLHeading"
+    },
+    {
+      "name" : "CLLocation"
+    },
+    {
+      "name" : "CLGeocoder"
+    },
+    {
+      "name" : "CMAttitude"
+    },
+    {
+      "name" : "CMLogItem",
+      "children" : [
+        {
+          "name" : "CMMagnetometerData"
+        },
+        {
+          "name" : "CMAccelerometerData"
+        },
+        {
+          "name" : "CMDeviceMotion"
+        },
+        {
+          "name" : "CMGyroData"
+        }
+      ]
+    },
+    {
+      "name" : "CMMotionManager"
+    },
+    {
+      "name" : "TWRequest"
+    },
+    {
+      "name" : "PKPass"
+    },
+    {
+      "name" : "PKPassLibrary"
+    },
+    {
+      "name" : "EAGLSharegroup"
+    },
+    {
+      "name" : "EAGLContext"
+    },
+    {
+      "name" : "ASIdentifierManager"
+    },
+    {
+      "name" : "EASession"
+    },
+    {
+      "name" : "EAAccessory"
+    },
+    {
+      "name" : "EAAccessoryManager"
+    },
+    {
+      "name" : "NSMetadataQuery"
+    },
+    {
+      "name" : "NSLocale"
+    },
+    {
+      "name" : "NSURLCredential"
+    },
+    {
+      "name" : "NSNull"
+    },
+    {
+      "name" : "NSMethodSignature"
+    },
+    {
+      "name" : "NSAutoreleasePool"
+    },
+    {
+      "name" : "NSURLRequest"
+    },
+    {
+      "name" : "NSDecimalNumberHandler"
+    },
+    {
+      "name" : "NSURL"
+    },
+    {
+      "name" : "NSCharacterSet"
+    },
+    {
+      "name" : "NSRunLoop"
+    },
+    {
+      "name" : "NSDictionary"
+    },
+    {
+      "name" : "NSMetadataItem"
+    },
+    {
+      "name" : "NSPointerFunctions"
+    },
+    {
+      "name" : "NSMapTable"
+    },
+    {
+      "name" : "NSNetService"
+    },
+    {
+      "name" : "NSCachedURLResponse"
+    },
+    {
+      "name" : "NSException"
+    },
+    {
+      "name" : "NSScanner"
+    },
+    {
+      "name" : "NSMetadataQueryAttributeValueTuple"
+    },
+    {
+      "name" : "NSFileSecurity"
+    },
+    {
+      "name" : "NSBundle"
+    },
+    {
+      "name" : "NSFileHandle"
+    },
+    {
+      "name" : "NSPropertyListSerialization"
+    },
+    {
+      "name" : "NSTimer"
+    },
+    {
+      "name" : "NSOrderedSet"
+    },
+    {
+      "name" : "NSURLProtectionSpace"
+    },
+    {
+      "name" : "NSURLAuthenticationChallenge"
+    },
+    {
+      "name" : "NSTimeZone"
+    },
+    {
+      "name" : "NSNotification"
+    },
+    {
+      "name" : "NSHashTable"
+    },
+    {
+      "name" : "NSJSONSerialization"
+    },
+    {
+      "name" : "NSCondition"
+    },
+    {
+      "name" : "NSLinguisticTagger"
+    },
+    {
+      "name" : "NSPort",
+      "children" : [
+        {
+          "name" : "NSMessagePort"
+        },
+        {
+          "name" : "NSMachPort"
+        },
+        {
+          "name" : "NSSocketPort"
+        }
+      ]
+    },
+    {
+      "name" : "NSStream",
+      "children" : [
+        {
+          "name" : "NSInputStream"
+        },
+        {
+          "name" : "NSOutputStream"
+        }
+      ]
+    },
+    {
+      "name" : "NSExpression"
+    },
+    {
+      "name" : "NSPredicate",
+      "children" : [
+        {
+          "name" : "NSCompoundPredicate"
+        },
+        {
+          "name" : "NSComparisonPredicate"
+        }
+      ]
+    },
+    {
+      "name" : "NSFileCoordinator"
+    },
+    {
+      "name" : "NSIndexSet"
+    },
+    {
+      "name" : "NSHTTPCookie"
+    },
+    {
+      "name" : "NSPointerArray"
+    },
+    {
+      "name" : "NSPipe"
+    },
+    {
+      "name" : "NSOperation",
+      "children" : [
+        {
+          "name" : "NSBlockOperation"
+        },
+        {
+          "name" : "NSInvocationOperation"
+        },
+        {
+          "name" : "UIActivityItemProvider"
+        }
+      ]
+    },
+    {
+      "name" : "NSHTTPCookieStorage"
+    },
+    {
+      "name" : "NSValue"
+    },
+    {
+      "name" : "NSUserDefaults"
+    },
+    {
+      "name" : "NSOrthography"
+    },
+    {
+      "name" : "NSURLConnection"
+    },
+    {
+      "name" : "NSSortDescriptor"
+    },
+    {
+      "name" : "NSCache"
+    },
+    {
+      "name" : "NSURLCache"
+    },
+    {
+      "name" : "NSURLResponse"
+    },
+    {
+      "name" : "NSUbiquitousKeyValueStore"
+    },
+    {
+      "name" : "NSUUID"
+    },
+    {
+      "name" : "NSOperationQueue"
+    },
+    {
+      "name" : "NSString",
+      "children" : [
+        {
+          "name" : "NSMutableString"
+        },
+        {
+          "name" : "NSSimpleCString"
+        }
+      ]
+    },
+    {
+      "name" : "NSAttributedString"
+    },
+    {
+      "name" : "NSNotificationQueue"
+    },
+    {
+      "name" : "NSCoder",
+      "children" : [
+        {
+          "name" : "NSKeyedArchiver"
+        },
+        {
+          "name" : "NSKeyedUnarchiver"
+        }
+      ]
+    },
+    {
+      "name" : "NSError"
+    },
+    {
+      "name" : "NSDateComponents"
+    },
+    {
+      "name" : "NSXMLParser"
+    },
+    {
+      "name" : "NSValueTransformer"
+    },
+    {
+      "name" : "NSCalendar"
+    },
+    {
+      "name" : "NSUndoManager"
+    },
+    {
+      "name" : "NSTextCheckingResult"
+    },
+    {
+      "name" : "NSFileManager"
+    },
+    {
+      "name" : "NSRegularExpression"
+    },
+    {
+      "name" : "NSInvocation"
+    },
+    {
+      "name" : "NSArray"
+    },
+    {
+      "name" : "NSAssertionHandler"
+    },
+    {
+      "name" : "NSFileWrapper"
+    },
+    {
+      "name" : "NSEnumerator"
+    },
+    {
+      "name" : "NSData"
+    },
+    {
+      "name" : "NSDate"
+    },
+    {
+      "name" : "NSSet"
+    },
+    {
+      "name" : "NSRecursiveLock"
+    },
+    {
+      "name" : "NSConditionLock"
+    },
+    {
+      "name" : "NSProcessInfo"
+    },
+    {
+      "name" : "NSMetadataQueryResultGroup"
+    },
+    {
+      "name" : "NSNotificationCenter"
+    },
+    {
+      "name" : "NSURLProtocol"
+    },
+    {
+      "name" : "NSNetServiceBrowser"
+    },
+    {
+      "name" : "NSFormatter",
+      "children" : [
+        {
+          "name" : "NSDateFormatter"
+        },
+        {
+          "name" : "NSNumberFormatter"
+        },
+        {
+          "name" : "NSByteCountFormatter"
+        }
+      ]
+    },
+    {
+      "name" : "NSThread"
+    },
+    {
+      "name" : "NSFileVersion"
+    },
+    {
+      "name" : "NSURLCredentialStorage"
+    },
+    {
+      "name" : "NSIndexPath"
+    },
+    {
+      "name" : "NSLock"
+    },
+    {
+      "name" : "SLRequest"
+    },
+    {
+      "name" : "AVAudioMix"
+    },
+    {
+      "name" : "AVMediaSelectionOption"
+    },
+    {
+      "name" : "AVAssetWriterInputPixelBufferAdaptor"
+    },
+    {
+      "name" : "AVAudioSessionChannelDescription"
+    },
+    {
+      "name" : "AVCaptureAudioChannel"
+    },
+    {
+      "name" : "AVAssetReaderOutput",
+      "children" : [
+        {
+          "name" : "AVAssetReaderTrackOutput"
+        },
+        {
+          "name" : "AVAssetReaderVideoCompositionOutput"
+        },
+        {
+          "name" : "AVAssetReaderAudioMixOutput"
+        }
+      ]
+    },
+    {
+      "name" : "AVVideoCompositionLayerInstruction"
+    },
+    {
+      "name" : "AVAssetResourceLoadingRequest"
+    },
+    {
+      "name" : "AVAssetImageGenerator"
+    },
+    {
+      "name" : "AVMetadataObject"
+    },
+    {
+      "name" : "AVTextStyleRule"
+    },
+    {
+      "name" : "AVPlayerItemAccessLog"
+    },
+    {
+      "name" : "AVMediaSelectionGroup"
+    },
+    {
+      "name" : "AVCaptureDevice"
+    },
+    {
+      "name" : "AVFrameRateRange"
+    },
+    {
+      "name" : "AVPlayer"
+    },
+    {
+      "name" : "AVVideoComposition"
+    },
+    {
+      "name" : "AVCaptureSession"
+    },
+    {
+      "name" : "AVAudioSessionPortDescription"
+    },
+    {
+      "name" : "AVAssetExportSession"
+    },
+    {
+      "name" : "AVTimedMetadataGroup"
+    },
+    {
+      "name" : "AVPlayerItem"
+    },
+    {
+      "name" : "AVCaptureDeviceFormat"
+    },
+    {
+      "name" : "AVAudioSessionDataSourceDescription"
+    },
+    {
+      "name" : "AVPlayerItemErrorLogEvent"
+    },
+    {
+      "name" : "AVAsset",
+      "children" : [
+        {
+          "name" : "AVURLAsset"
+        },
+        {
+          "name" : "AVComposition"
+        }
+      ]
+    },
+    {
+      "name" : "AVPlayerItemOutput"
+    },
+    {
+      "name" : "AVAudioSession"
+    },
+    {
+      "name" : "AVAudioSessionRouteDescription"
+    },
+    {
+      "name" : "AVAssetTrackSegment"
+    },
+    {
+      "name" : "AVAssetResourceLoader"
+    },
+    {
+      "name" : "AVAudioPlayer"
+    },
+    {
+      "name" : "AVVideoCompositionCoreAnimationTool"
+    },
+    {
+      "name" : "AVCaptureInputPort"
+    },
+    {
+      "name" : "AVVideoCompositionInstruction"
+    },
+    {
+      "name" : "AVCaptureInput",
+      "children" : [
+        {
+          "name" : "AVCaptureDeviceInput"
+        },
+        {
+          "name" : "AVCaptureScreenInput"
+        }
+      ]
+    },
+    {
+      "name" : "AVAssetTrack"
+    },
+    {
+      "name" : "AVMetadataItem"
+    },
+    {
+      "name" : "AVPlayerItemAccessLogEvent"
+    },
+    {
+      "name" : "AVPlayerItemErrorLog"
+    },
+    {
+      "name" : "AVAssetReader"
+    },
+    {
+      "name" : "AVAudioRecorder"
+    },
+    {
+      "name" : "AVAssetWriterInput"
+    },
+    {
+      "name" : "AVCaptureOutput",
+      "children" : [
+        {
+          "name" : "AVCaptureAudioPreviewOutput"
+        },
+        {
+          "name" : "AVCaptureStillImageOutput"
+        },
+        {
+          "name" : "AVCaptureAudioDataOutput"
+        },
+        {
+          "name" : "AVCaptureMetadataOutput"
+        },
+        {
+          "name" : "AVCaptureFileOutput",
+          "children" : [
+            {
+              "name" : "AVCaptureMovieFileOutput"
+            },
+            {
+              "name" : "AVCaptureAudioFileOutput"
+            }
+          ]
+        },
+        {
+          "name" : "AVCaptureVideoDataOutput"
+        }
+      ]
+    },
+    {
+      "name" : "AVCaptureConnection"
+    },
+    {
+      "name" : "AVPlayerItemTrack"
+    },
+    {
+      "name" : "AVCaptureDeviceInputSource"
+    },
+    {
+      "name" : "AVAssetWriter"
+    },
+    {
+      "name" : "AVAudioMixInputParameters"
+    },
+    {
+      "name" : "CBCentralManager"
+    },
+    {
+      "name" : "CBPeripheralManager"
+    },
+    {
+      "name" : "CBCharacteristic"
+    },
+    {
+      "name" : "CBATTRequest"
+    },
+    {
+      "name" : "CBPeripheral"
+    },
+    {
+      "name" : "CBDescriptor"
+    },
+    {
+      "name" : "CBUUID"
+    },
+    {
+      "name" : "CBService"
+    },
+    {
+      "name" : "CBCentral"
+    },
+    {
+      "name" : "NSMergePolicy"
+    },
+    {
+      "name" : "NSIncrementalStoreNode"
+    },
+    {
+      "name" : "NSPersistentStoreRequest",
+      "children" : [
+        {
+          "name" : "NSSaveChangesRequest"
+        },
+        {
+          "name" : "NSFetchRequest"
+        }
+      ]
+    },
+    {
+      "name" : "NSPropertyMapping"
+    },
+    {
+      "name" : "NSEntityMigrationPolicy"
+    },
+    {
+      "name" : "NSFetchedResultsController"
+    },
+    {
+      "name" : "NSPersistentStoreCoordinator"
+    },
+    {
+      "name" : "NSMappingModel"
+    },
+    {
+      "name" : "NSMigrationManager"
+    },
+    {
+      "name" : "NSEntityDescription"
+    },
+    {
+      "name" : "NSPersistentStore",
+      "children" : [
+        {
+          "name" : "NSIncrementalStore"
+        },
+        {
+          "name" : "NSAtomicStore"
+        }
+      ]
+    },
+    {
+      "name" : "NSPropertyDescription",
+      "children" : [
+        {
+          "name" : "NSRelationshipDescription"
+        },
+        {
+          "name" : "NSAttributeDescription"
+        },
+        {
+          "name" : "NSFetchedPropertyDescription"
+        },
+        {
+          "name" : "NSExpressionDescription"
+        }
+      ]
+    },
+    {
+      "name" : "NSManagedObjectModel"
+    },
+    {
+      "name" : "NSAtomicStoreCacheNode"
+    },
+    {
+      "name" : "NSManagedObject"
+    },
+    {
+      "name" : "NSManagedObjectContext"
+    },
+    {
+      "name" : "NSEntityMapping"
+    },
+    {
+      "name" : "NSMergeConflict"
+    },
+    {
+      "name" : "NSManagedObjectID"
+    },
+    {
+      "name" : "GLKTextureInfo"
+    },
+    {
+      "name" : "GLKEffectProperty",
+      "children" : [
+        {
+          "name" : "GLKEffectPropertyTransform"
+        },
+        {
+          "name" : "GLKEffectPropertyMaterial"
+        },
+        {
+          "name" : "GLKEffectPropertyFog"
+        },
+        {
+          "name" : "GLKEffectPropertyTexture"
+        },
+        {
+          "name" : "GLKEffectPropertyLight"
+        }
+      ]
+    },
+    {
+      "name" : "GLKBaseEffect"
+    },
+    {
+      "name" : "GLKSkyboxEffect"
+    },
+    {
+      "name" : "GLKTextureLoader"
+    },
+    {
+      "name" : "GKTurnBasedEventHandler"
+    },
+    {
+      "name" : "GKScore"
+    },
+    {
+      "name" : "GKPlayer"
+    },
+    {
+      "name" : "GKTurnBasedMatch"
+    },
+    {
+      "name" : "GKSession"
+    },
+    {
+      "name" : "GKMatchmaker"
+    },
+    {
+      "name" : "GKTurnBasedParticipant"
+    },
+    {
+      "name" : "GKVoiceChatService"
+    },
+    {
+      "name" : "GKLeaderboard"
+    },
+    {
+      "name" : "GKAchievementDescription"
+    },
+    {
+      "name" : "GKMatchRequest"
+    },
+    {
+      "name" : "GKInvite"
+    },
+    {
+      "name" : "GKNotificationBanner"
+    },
+    {
+      "name" : "GKChallenge",
+      "children" : [
+        {
+          "name" : "GKAchievementChallenge"
+        },
+        {
+          "name" : "GKScoreChallenge"
+        }
+      ]
+    },
+    {
+      "name" : "GKAchievement"
+    },
+    {
+      "name" : "GKVoiceChat"
+    },
+    {
+      "name" : "GKChallengeEventHandler"
+    },
+    {
+      "name" : "GKMatch"
+    },
+    {
+      "name" : "GKPeerPickerController"
+    },
+    {
+      "name" : "NKIssue"
+    },
+    {
+      "name" : "NKAssetDownload"
+    },
+    {
+      "name" : "NKLibrary"
+    },
+    {
+      "name" : "ALAsset"
+    },
+    {
+      "name" : "ALAssetRepresentation"
+    },
+    {
+      "name" : "ALAssetsFilter"
+    },
+    {
+      "name" : "ALAssetsGroup"
+    },
+    {
+      "name" : "ALAssetsLibrary"
+    },
+    {
+      "name" : "SKDownload"
+    },
+    {
+      "name" : "SKProductsResponse"
+    },
+    {
+      "name" : "SKPaymentQueue"
+    },
+    {
+      "name" : "SKPayment"
+    },
+    {
+      "name" : "SKPaymentTransaction"
+    },
+    {
+      "name" : "SKProduct"
+    },
+    {
+      "name" : "SKRequest"
+    },
+    {
+      "name" : "NSParagraphStyle"
+    },
+    {
+      "name" : "UITextPosition"
+    },
+    {
+      "name" : "UIEvent"
+    },
+    {
+      "name" : "UIImage"
+    },
+    {
+      "name" : "UILocalNotification"
+    },
+    {
+      "name" : "UIStoryboardSegue"
+    },
+    {
+      "name" : "UINavigationItem"
+    },
+    {
+      "name" : "UITouch"
+    },
+    {
+      "name" : "UIDocumentInteractionController"
+    },
+    {
+      "name" : "UIActivity"
+    },
+    {
+      "name" : "UIPrintInteractionController"
+    },
+    {
+      "name" : "NSLayoutConstraint"
+    },
+    {
+      "name" : "UILocalizedIndexedCollation"
+    },
+    {
+      "name" : "UIColor"
+    },
+    {
+      "name" : "UIAccelerometer"
+    },
+    {
+      "name" : "UIPrintFormatter",
+      "children" : [
+        {
+          "name" : "UIViewPrintFormatter"
+        },
+        {
+          "name" : "UISimpleTextPrintFormatter"
+        },
+        {
+          "name" : "UIMarkupTextPrintFormatter"
+        }
+      ]
+    },
+    {
+      "name" : "UICollectionViewLayoutAttributes"
+    },
+    {
+      "name" : "UITextInputMode"
+    },
+    {
+      "name" : "UIScreen"
+    },
+    {
+      "name" : "UICollectionViewUpdateItem"
+    },
+    {
+      "name" : "UITextChecker"
+    },
+    {
+      "name" : "UIBezierPath"
+    },
+    {
+      "name" : "UITextRange"
+    },
+    {
+      "name" : "UIDocument"
+    },
+    {
+      "name" : "UIFont"
+    },
+    {
+      "name" : "UIDevice"
+    },
+    {
+      "name" : "UIMenuController"
+    },
+    {
+      "name" : "UIAccessibilityElement"
+    },
+    {
+      "name" : "UIPasteboard"
+    },
+    {
+      "name" : "UITextInputStringTokenizer"
+    },
+    {
+      "name" : "NSStringDrawingContext"
+    },
+    {
+      "name" : "UIPrintPageRenderer"
+    },
+    {
+      "name" : "UIResponder",
+      "children" : [
+        {
+          "name" : "UIApplication"
+        },
+        {
+          "name" : "UIView",
+          "children" : [
+            {
+              "name" : "MKAnnotationView"
+            },
+            {
+              "name" : "MKMapView"
+            },
+            {
+              "name" : "MKOverlayView"
+            },
+            {
+              "name" : "MPVolumeView"
+            },
+            {
+              "name" : "GLKView"
+            },
+            {
+              "name" : "UINavigationBar"
+            },
+            {
+              "name" : "UIProgressView"
+            },
+            {
+              "name" : "UIActivityIndicatorView"
+            },
+            {
+              "name" : "UIActionSheet"
+            },
+            {
+              "name" : "UITableViewCell"
+            },
+            {
+              "name" : "UITabBar"
+            },
+            {
+              "name" : "UILabel"
+            },
+            {
+              "name" : "UIWindow"
+            },
+            {
+              "name" : "UIControl",
+              "children" : [
+                {
+                  "name" : "UIRefreshControl"
+                },
+                {
+                  "name" : "UIButton"
+                },
+                {
+                  "name" : "UIDatePicker"
+                },
+                {
+                  "name" : "UISlider"
+                },
+                {
+                  "name" : "UITextField"
+                },
+                {
+                  "name" : "UISegmentedControl"
+                },
+                {
+                  "name" : "UISwitch"
+                },
+                {
+                  "name" : "UIPageControl"
+                },
+                {
+                  "name" : "UIStepper"
+                }
+              ]
+            },
+            {
+              "name" : "UIScrollView",
+              "children" : [
+                {
+                  "name" : "UITableView"
+                },
+                {
+                  "name" : "UICollectionView"
+                },
+                {
+                  "name" : "UITextView"
+                }
+              ]
+            },
+            {
+              "name" : "UIAlertView"
+            },
+            {
+              "name" : "UICollectionReusableView"
+            },
+            {
+              "name" : "UIPickerView"
+            },
+            {
+              "name" : "UIToolbar"
+            },
+            {
+              "name" : "UIWebView"
+            },
+            {
+              "name" : "UIImageView"
+            },
+            {
+              "name" : "UITableViewHeaderFooterView"
+            },
+            {
+              "name" : "UISearchBar"
+            },
+            {
+              "name" : "ADBannerView"
+            }
+          ]
+        },
+        {
+          "name" : "UIViewController",
+          "children" : [
+            {
+              "name" : "EKEventViewController"
+            },
+            {
+              "name" : "EKCalendarChooser"
+            },
+            {
+              "name" : "MPMediaPickerController"
+            },
+            {
+              "name" : "MPMoviePlayerViewController"
+            },
+            {
+              "name" : "TWTweetComposeViewController"
+            },
+            {
+              "name" : "PKAddPassesViewController"
+            },
+            {
+              "name" : "SLComposeViewController"
+            },
+            {
+              "name" : "GLKViewController"
+            },
+            {
+              "name" : "QLPreviewController"
+            },
+            {
+              "name" : "ABNewPersonViewController"
+            },
+            {
+              "name" : "ABPersonViewController"
+            },
+            {
+              "name" : "ABUnknownPersonViewController"
+            },
+            {
+              "name" : "SKStoreProductViewController"
+            },
+            {
+              "name" : "UITabBarController"
+            },
+            {
+              "name" : "UICollectionViewController"
+            },
+            {
+              "name" : "UITableViewController"
+            },
+            {
+              "name" : "UIPageViewController"
+            },
+            {
+              "name" : "UISplitViewController"
+            },
+            {
+              "name" : "UINavigationController",
+              "children" : [
+                {
+                  "name" : "EKEventEditViewController"
+                },
+                {
+                  "name" : "GKMatchmakerViewController"
+                },
+                {
+                  "name" : "GKTurnBasedMatchmakerViewController"
+                },
+                {
+                  "name" : "GKGameCenterViewController",
+                  "children" : [
+                    {
+                      "name" : "GKLeaderboardViewController"
+                    },
+                    {
+                      "name" : "GKAchievementViewController"
+                    }
+                  ]
+                },
+                {
+                  "name" : "GKFriendRequestComposeViewController"
+                },
+                {
+                  "name" : "ABPeoplePickerNavigationController"
+                },
+                {
+                  "name" : "MFMailComposeViewController"
+                },
+                {
+                  "name" : "MFMessageComposeViewController"
+                },
+                {
+                  "name" : "UIImagePickerController"
+                },
+                {
+                  "name" : "UIVideoEditorController"
+                }
+              ]
+            },
+            {
+              "name" : "UIActivityViewController"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "UIGestureRecognizer",
+      "children" : [
+        {
+          "name" : "UITapGestureRecognizer"
+        },
+        {
+          "name" : "UILongPressGestureRecognizer"
+        },
+        {
+          "name" : "UIRotationGestureRecognizer"
+        },
+        {
+          "name" : "UIPinchGestureRecognizer"
+        },
+        {
+          "name" : "UISwipeGestureRecognizer"
+        },
+        {
+          "name" : "UIPanGestureRecognizer"
+        }
+      ]
+    },
+    {
+      "name" : "UIPrintPaper"
+    },
+    {
+      "name" : "UIDictationPhrase"
+    },
+    {
+      "name" : "UIPopoverController"
+    },
+    {
+      "name" : "UIScreenMode"
+    },
+    {
+      "name" : "UIMenuItem"
+    },
+    {
+      "name" : "NSShadow"
+    },
+    {
+      "name" : "UINib"
+    },
+    {
+      "name" : "UISearchDisplayController"
+    },
+    {
+      "name" : "UIStoryboard"
+    },
+    {
+      "name" : "UIPrintInfo"
+    },
+    {
+      "name" : "UIBarItem",
+      "children" : [
+        {
+          "name" : "UIBarButtonItem"
+        },
+        {
+          "name" : "UITabBarItem"
+        }
+      ]
+    },
+    {
+      "name" : "UITextSelectionRect"
+    },
+    {
+      "name" : "UICollectionViewLayout"
+    },
+    {
+      "name" : "UIAcceleration"
+    },
+    {
+      "name" : "ADInterstitialAd"
+    },
+    {
+      "name" : "EKObject",
+      "children" : [
+        {
+          "name" : "EKCalendarItem",
+          "children" : [
+            {
+              "name" : "EKEvent"
+            },
+            {
+              "name" : "EKReminder"
+            }
+          ]
+        },
+        {
+          "name" : "EKAlarm"
+        },
+        {
+          "name" : "EKCalendar"
+        },
+        {
+          "name" : "EKParticipant"
+        },
+        {
+          "name" : "EKRecurrenceRule"
+        },
+        {
+          "name" : "EKSource"
+        },
+        {
+          "name" : "EKStructuredLocation"
+        }
+      ]
+    },
+    {
+      "name" : "EKEventStore"
+    },
+    {
+      "name" : "EKRecurrenceEnd"
+    },
+    {
+      "name" : "EKRecurrenceDayOfWeek"
+    },
+    {
+      "name" : "ACAccountCredential"
+    },
+    {
+      "name" : "ACAccountType"
+    },
+    {
+      "name" : "ACAccount"
+    },
+    {
+      "name" : "ACAccountStore"
+    },
+    {
+      "name" : "CTCall"
+    },
+    {
+      "name" : "CTCallCenter"
+    },
+    {
+      "name" : "CTCarrier"
+    },
+    {
+      "name" : "CTTelephonyNetworkInfo"
+    }
+  ]
+}
